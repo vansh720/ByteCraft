@@ -106,11 +106,3 @@ Contributions are welcome! If you'd like to improve this project, please fork th
 
 ---
 
-## Contact
-
-Feel free to reach out if you have any questions!
-
-- **GitHub**: [rajput-vishal01](https://github.com/rajput-vishal01)
-- **Email**: [askvishal.me@gmail.com](mailto:askvishal.me@gmail.com)
-
-Project Link: [https://github.com/rajput-vishal01/bytecraft](https://github.com/rajput-vishal01/bytecraft)
